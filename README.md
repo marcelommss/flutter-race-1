@@ -1,16 +1,14 @@
 # flutter_race
 
-A new Flutter project.
+## Sobre o projeto
+--
 
-## Getting Started
+Estamos criando um aplicativo para versão mobile, com intuito de ajudar as pessoas a terem um melhor controle do preços dos produtos que adquirimos no cotidiano.
 
-This project is a starting point for a Flutter application.
+Para você rodar o projeto basta fazer o clone desse repositório e utilizar o **VScode** ou **Android Studio** para fazer o build.
 
-A few resources to get you started if this is your first Flutter project:
+Para ajudar nos seus estudos acesse o **FIGMA** do projeto, para ter acesso as fontes, cores e o design utilizado nas aulas.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Figma do projeto](https://www.figma.com/file/M60t8ulOCV7TCEYuLyrlA3/T%C3%A1-caro%3F?node-id=0%3A1)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Estamos utilizando a Google UI toolkit chamada **Flutter** para realização do Projeto, se você deseja iniciar na tecnologia tenho um vídeo focado nisso para te recomendar.
